@@ -1,0 +1,5 @@
+com\pjatk\loanapp\service\LoanService.class
+com\pjatk\loanapp\domain\Address.class
+com\pjatk\loanapp\domain\LoanApplication.class
+com\pjatk\loanapp\domain\LoanParameters.class
+com\pjatk\loanapp\domain\Person.class
